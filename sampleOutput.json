@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Spanish soccer chief apologies for inappropriate kiss with player after World Cup win | CBC Sports",
+            "description": "A kiss on the lips caused an uproar after Spain won the Women's World Cup title. Criticism from the Spanish government and the soccer world rained down Monday on national soccer federation president Luis Rubiales for his inappropriate conduct while reveling i…",
+            "url": "http://www.cbc.ca/sports/soccer/worldcup/soccer-federation-president-apology-1.6942505",
+            "urlToImage": "https://i.cbc.ca/1.6942523.1692633685!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wwcup-spain-england-soccer.jpg",
+            "publishedAt": "2023-08-21T17:22:26.1272661Z",
+            "content": "A kiss on the lips caused an uproar after Spain won the Women's World Cup title.\r\nCriticism from the Spanish government and the soccer world rained down Monday on national soccer federation president… [+4704 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "Anna Stensrud, Kristian Arnesen Strømshoved",
+            "title": "NRK-ekspert rørt av Aleksanders prestasjon – syklar 2000 km (!) før symje-EM",
+            "description": "Aleksander (31) syklar frå Alicante til Venezia med faren for å konkurrere i EM i symjing for utøvarar med Downs syndrom. Det inspirerer sportskommentatoren til NRK.",
+            "url": "https://www.nrk.no/sport/nrk-ekspert-rort-av-aleksanders-prestasjon-_-syklar-2000-km-___-for-symje-em-1.16518550",
+            "urlToImage": "https://gfx.nrk.no/H6LG9TfpAkx6yb_MT7E1OAzQwbrwY9J9lwood79obX9w.jpg",
+            "publishedAt": "2023-08-21T12:45:07Z",
+            "content": "For andre år på rad syklar den allsidige 31-åringen til ein meisterskap i symjing med pappa Lasse Haaberg (58).\r\nMen kvifor i all verda ladar ein opp til symje-EM på sykkelsetet?\r\n Syklinga gjer at d… [+5409 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "Christian Ingebrethsen, Carl August Klevjer",
+            "title": "Amandautdelingen kalles «smale» og «mindre relevant» –nekter å endre regelverket",
+            "description": "Storfilmer fra strømmetjenester blir ikke Amanda-nominert. – Prisen må tilpasse seg tiden vi lever i, sier folka bak Netflix-suksessen «Troll».",
+            "url": "https://www.nrk.no/kultur/amandautdelingen-kalles-_smale_-og-_mindre-relevant_-_nekter-a-endre-regelverket-1.16523039",
+            "urlToImage": "https://gfx.nrk.no/vdnNyg-y1ZKw0-LVaeY_4wUKh1pvRyna5tXFf5UBrA_w.jpg",
+            "publishedAt": "2023-08-21T16:49:33Z",
+            "content": "Over 100 millioner mennesker har sett filmen «Troll» på Netflix. Historien om den 1000 år gamle skapningen som vekkes til live er den mest sette ikke-engelskspråklige filmen på strømmetjenesten noens… [+2471 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "The Flash: Where to watch and when it’s coming to Max",
+            "description": "It’s not clear when The Flash, Warner Bros. latest DC Comics blockbuster, will hit Netflix, but Max viewers can expect it later this year.",
+            "url": "https://www.polygon.com/23762555/flash-max-streaming-release-date-where-to-watch",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qxtPTg-ej3ZXE_2v55XbGLu2n7k=/0x0:4096x2145/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24708980/rev_1_FLSH_FF_87683r_High_Res_JPEG.jpeg",
+            "publishedAt": "2023-06-16T15:30:00Z",
+            "content": "The Flash is rushing into theaters this weekend and the movie is crowded with a multiverse full of cameos and stars. But to really catch all the references and Easter eggs, you might have to wait for… [+1670 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
