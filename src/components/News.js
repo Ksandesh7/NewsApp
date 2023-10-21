@@ -31,7 +31,7 @@ export class News extends Component {
     };
     document.title = `${this.capitalizeFirstLetter(
       this.props.category
-    )} - NewsMonkey`;
+    )} - NewsWave`;
   }
 
   async updateNews() {
@@ -107,7 +107,7 @@ export class News extends Component {
         <h1 className="text-center" style={{ margin: "35px 0px" }}>
           Top Headlines{" "}
           {this.props.category === "general"
-            ? "- NewsMonkey"
+            ? "- NewsWave"
             : "from " + this.capitalizeFirstLetter(this.props.category)}
         </h1>
         {this.state.loading && <Spinner />}
