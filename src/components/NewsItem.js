@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 
 export class NewsItem extends Component {
     constructor() {
         super()
-        console.log("I am a Constructor from NewsItem")
-
+        console.log("")
     }
   render() {
     let {title, description, imageURL, newsUrl, author, date, source} = this.props; 
@@ -23,7 +23,11 @@ export class NewsItem extends Component {
                 </h5>
                 <p className="card-text">{description}...</p>
                 <p className="card-text"><small className="text-muted">By {author} on {new Date(date).toUTCString()}</small></p>
-                <a rel="noreferrer" href={newsUrl} target='_black' className="btn btn-sm btn-dark">Read More</a>
+                <div style={{display: 'flex', gap: '10px'}}>
+                  <a rel="noreferrer" href={newsUrl} target='_black' className="btn btn-sm btn-dark">Read More</a>
+                  <Link to={`/summarize/${encodeURIComponent(newsUrl)}`} className="btn btn-sm btn-danger">Summarize</Link>
+                </div>
+                
             </div>
         </div>
       </div>

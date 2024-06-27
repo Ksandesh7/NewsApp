@@ -13,11 +13,11 @@ import LoadingBar from 'react-top-loading-bar'
 import React, { Component } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
+import NewsSummarizer from './components/NewsSummarizer';
 
 export default class App extends Component {
   pageSize = 5;
-  // apikey = process.env.REACT_NEWS_APP_API_KEY1
-  apikey = '86e3dcba8c30469da875d3cdd6c12b06'
+  apikey = process.env.REACT_APP_API_KEY1
 
   state = {
     progress:10
@@ -49,6 +49,12 @@ export default class App extends Component {
           <Route exact path="/science" element={ <News setProgress={this.setProgress} apikey={this.apikey} key="science" pageSize={this.pageSize} country="in" category="science"/> } />
           <Route exact path="/sports" element={ <News setProgress={this.setProgress} apikey={this.apikey} key="sports" pageSize={this.pageSize} country="in" category="sports"/> } />
           <Route exact path="/technology" element={ <News setProgress={this.setProgress} apikey={this.apikey} key="technology" pageSize={this.pageSize} country="in" category="technology"/> } />
+          
+          <Route
+            path="/summarize/:articleUrl"
+            element={<NewsSummarizer />}
+          />
+          
         </Routes>
 
         </Router>
